@@ -1,0 +1,6 @@
+name,min_freq,macro_0.5,best_t,macro_best,n_estimators,max_depth,min_samples_leaf,max_features,class_weight
+all_cat_more_trees,250,0.5633,0.47,0.5928,260,20,6,sqrt,balanced_subsample
+genre_plus_lowcat,100,0.5696,0.47,0.5911,140,28,3,sqrt,balanced_subsample
+holiday_plus_lowcat,120,0.5696,0.475,0.5907,180,24,4,sqrt,balanced_subsample
+all_cat_high_grouping,200,0.5586,0.48,0.5862,160,22,5,log2,balanced_subsample
+genre_plus_lowcat_reg,150,0.5527,0.48,0.5838,180,24,5,log2,balanced_subsample
